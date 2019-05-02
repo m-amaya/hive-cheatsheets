@@ -1,0 +1,13 @@
+{
+  "name": "cheatsheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/m-amaya/cheatsheets.git",
+  "author": "m-amaya <mamaya.dev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  },
+  "devDependencies": {}
+}

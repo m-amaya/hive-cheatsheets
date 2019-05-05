@@ -1,11 +1,10 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Taskbook',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/notebook.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'GitHub', link: 'https://github.com/klaussinani/taskbook' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'TypeGraphQL',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/typegraphql.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://typegraphql.ml/' },
+      { text: 'GitHub', link: 'https://github.com/19majkel94/type-graphql' },
     ]
   }
 }

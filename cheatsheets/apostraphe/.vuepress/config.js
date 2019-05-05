@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'ApostropheCMS',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/apostraphe.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://apostrophecms.org/' },
+      { text: 'GitHub', link: 'https://github.com/apostrophecms/apostrophe' },
     ]
   }
 }

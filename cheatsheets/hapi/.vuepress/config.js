@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Hapi',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/hapi.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://hapijs.com/' },
+      { text: 'GitHub', link: 'https://github.com/hapijs/hapi' },
     ]
   }
 }

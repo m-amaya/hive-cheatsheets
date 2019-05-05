@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Immutable',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/immutable.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://immutable-js.github.io/immutable-js/' },
+      { text: 'GitHub', link: 'https://github.com/immutable-js/immutable-js' },
     ]
   }
 }

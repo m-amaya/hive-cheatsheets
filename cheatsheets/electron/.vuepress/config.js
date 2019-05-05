@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Electron',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/electron-icon.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://electronjs.org/' },
+      { text: 'GitHub', link: 'https://github.com/electron/electron' },
     ]
   }
 }

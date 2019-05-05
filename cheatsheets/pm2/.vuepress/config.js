@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'PM2',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/pm2.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://pm2.io/doc/en/runtime/overview/' },
+      { text: 'GitHub', link: 'https://github.com/Unitech/pm2' },
     ]
   }
 }

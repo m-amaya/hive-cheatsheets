@@ -1,11 +1,10 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'react-notify-toast',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/toast.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'GitHub', link: 'https://github.com/jesusoterogomez/react-notify-toast' },
     ]
   }
 }

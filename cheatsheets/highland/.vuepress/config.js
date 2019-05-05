@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Highland',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/highland.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://highlandjs.org/' },
+      { text: 'GitHub', link: 'https://github.com/caolan/highland' },
     ]
   }
 }

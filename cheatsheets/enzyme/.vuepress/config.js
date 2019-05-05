@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Enzyme',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/enzyme.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://airbnb.io/enzyme/' },
+      { text: 'GitHub', link: 'https://github.com/airbnb/enzyme' },
     ]
   }
 }

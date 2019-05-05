@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'nodemon',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/nodemon.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://nodemon.io/' },
+      { text: 'GitHub', link: 'https://github.com/remy/nodemon' },
     ]
   }
 }

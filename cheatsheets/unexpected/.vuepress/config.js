@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Unexpected.js',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/unexpected.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://unexpected.js.org/' },
+      { text: 'GitHub', link: 'https://github.com/unexpectedjs/unexpected' },
     ]
   }
 }

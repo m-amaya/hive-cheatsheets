@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'TestCafé',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/testcafe.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://devexpress.github.io/testcafe/' },
+      { text: 'GitHub', link: 'https://github.com/DevExpress/testcafe' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Ramda',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/ramda.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://ramdajs.com/' },
+      { text: 'GitHub', link: 'https://github.com/ramda/ramda' },
     ]
   }
 }

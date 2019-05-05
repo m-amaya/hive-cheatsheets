@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Flask',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/flask.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://www.palletsprojects.com/p/flask/' },
+      { text: 'GitHub', link: 'https://github.com/pallets/flask' },
     ]
   }
 }

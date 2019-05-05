@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'pino',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/pino-icon.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://getpino.io/#/' },
+      { text: 'GitHub', link: 'https://github.com/pinojs/pino' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Mocha',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/mocha.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://mochajs.org/' },
+      { text: 'GitHub', link: 'https://github.com/mochajs/mocha' },
     ]
   }
 }

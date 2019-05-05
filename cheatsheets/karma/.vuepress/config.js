@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Karma',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/karma.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://karma-runner.github.io/latest/index.html' },
+      { text: 'GitHub', link: 'https://github.com/karma-runner/karma' },
     ]
   }
 }

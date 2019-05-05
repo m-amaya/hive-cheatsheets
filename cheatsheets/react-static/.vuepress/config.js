@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'React Static',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/react-static.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://github.com/nozzle/react-static/tree/master/docs' },
+      { text: 'GitHub', link: 'https://github.com/nozzle/react-static' },
     ]
   }
 }

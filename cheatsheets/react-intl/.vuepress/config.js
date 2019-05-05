@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'react-intl',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/yahoo.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://github.com/yahoo/react-intl/wiki' },
+      { text: 'GitHub', link: 'https://github.com/yahoo/react-intl' },
     ]
   }
 }

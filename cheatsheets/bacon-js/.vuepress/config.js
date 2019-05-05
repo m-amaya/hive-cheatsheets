@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Bacon.js',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/bacon.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://baconjs.github.io/' },
+      { text: 'GitHub', link: 'https://github.com/baconjs/bacon.js' },
     ]
   }
 }

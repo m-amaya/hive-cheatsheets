@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Bookshelf',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/bookshelf.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://bookshelfjs.org/' },
+      { text: 'GitHub', link: 'https://github.com/bookshelf/bookshelf' },
     ]
   }
 }

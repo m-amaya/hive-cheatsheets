@@ -1,11 +1,10 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'React Table',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/react-table.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'GitHub', link: 'https://github.com/tannerlinsley/react-table#examples' },
     ]
   }
 }

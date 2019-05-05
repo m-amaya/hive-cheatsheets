@@ -1,11 +1,10 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'History',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/react-training.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'GitHub', link: 'https://github.com/ReactTraining/history' },
     ]
   }
 }

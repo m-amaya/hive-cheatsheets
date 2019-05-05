@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Homebrew',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/homebrew.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://brew.sh/' },
+      { text: 'GitHub', link: 'https://github.com/Homebrew/brew' },
     ]
   }
 }

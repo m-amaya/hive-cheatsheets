@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Marked',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/markdown.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://marked.js.org/#/README.md#README.md' },
+      { text: 'GitHub', link: 'https://github.com/markedjs/marked' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Bulma',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/bulma.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://bulma.io/' },
+      { text: 'GitHub', link: 'https://github.com/jgthms/bulma' },
     ]
   }
 }

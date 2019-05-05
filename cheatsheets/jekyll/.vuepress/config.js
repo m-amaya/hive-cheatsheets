@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Jekyll',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/jekyll.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://jekyllrb.com/' },
+      { text: 'GitHub', link: 'https://github.com/jekyll/jekyll' },
     ]
   }
 }

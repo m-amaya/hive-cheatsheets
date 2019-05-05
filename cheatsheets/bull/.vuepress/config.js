@@ -1,10 +1,10 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Bull',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/bull.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
+      { text: 'Website', link: 'https://optimalbits.github.io/bull/' },
       { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
     ]
   }

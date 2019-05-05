@@ -1,11 +1,10 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Servicer',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/ci.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'GitHub', link: 'https://github.com/wmgroot/servicer' },
     ]
   }
 }

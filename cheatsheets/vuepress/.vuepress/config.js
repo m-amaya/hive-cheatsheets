@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Vuepress',
   themeConfig: {
     logo: '/adonis.jpeg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://v1.vuepress.vuejs.org/' },
+      { text: 'GitHub', link: 'https://github.com/vuejs/vuepress' },
     ]
   }
 }

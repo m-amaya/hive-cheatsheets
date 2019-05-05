@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Fastify',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/fastify.jpg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://www.fastify.io/' },
+      { text: 'GitHub', link: 'https://github.com/fastify/fastify' },
     ]
   }
 }

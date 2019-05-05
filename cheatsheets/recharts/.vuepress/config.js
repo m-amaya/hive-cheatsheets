@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Recharts',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/recharts.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://recharts.org/en-US/' },
+      { text: 'GitHub', link: 'https://github.com/recharts/recharts' },
     ]
   }
 }

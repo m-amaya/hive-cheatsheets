@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Material UI',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/material-ui.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://material-ui.com/' },
+      { text: 'GitHub', link: 'https://github.com/mui-org/material-ui' },
     ]
   }
 }

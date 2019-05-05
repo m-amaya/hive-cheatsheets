@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Sigma',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/sigma.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://sigmajs.org/' },
+      { text: 'GitHub', link: 'https://github.com/jacomyal/sigma.js' },
     ]
   }
 }

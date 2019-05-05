@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Bluebird',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/bluebird.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://bluebirdjs.com/docs/getting-started.html' },
+      { text: 'GitHub', link: 'https://github.com/petkaantonov/bluebird' },
     ]
   }
 }

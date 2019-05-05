@@ -1,11 +1,10 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'http-server',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/http-server.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'GitHub', link: 'https://github.com/indexzero/http-server' },
     ]
   }
 }

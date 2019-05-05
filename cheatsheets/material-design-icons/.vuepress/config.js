@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Material Design Icons',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/material-icons.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://google.github.io/material-design-icons/' },
+      { text: 'GitHub', link: 'https://github.com/google/material-design-icons' },
     ]
   }
 }

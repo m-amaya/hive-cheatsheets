@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Storybook',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/storybook-icon.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://storybook.js.org/' },
+      { text: 'GitHub', link: 'https://github.com/storybooks/storybook' },
     ]
   }
 }

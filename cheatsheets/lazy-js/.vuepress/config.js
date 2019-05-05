@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Lazy.js',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/lazy.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://danieltao.com/lazy.js/' },
+      { text: 'GitHub', link: 'https://github.com/dtao/lazy.js' },
     ]
   }
 }

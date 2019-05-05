@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Superagent',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/agent.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://visionmedia.github.io/superagent/' },
+      { text: 'GitHub', link: 'https://github.com/visionmedia/superagent' },
     ]
   }
 }

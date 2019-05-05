@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Protractor',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/protractor.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://www.protractortest.org/#/' },
+      { text: 'GitHub', link: 'https://github.com/angular/protractor' },
     ]
   }
 }

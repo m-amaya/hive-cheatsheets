@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Three.js',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/three.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://threejs.org/' },
+      { text: 'GitHub', link: 'https://github.com/mrdoob/three.js' },
     ]
   }
 }

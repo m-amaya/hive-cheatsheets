@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'JSDoc',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/jsdoc.jpg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://usejsdoc.org/' },
+      { text: 'GitHub', link: 'https://github.com/jsdoc3/jsdoc' },
     ]
   }
 }

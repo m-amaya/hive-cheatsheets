@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Pug',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/pug.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://pugjs.org/api/getting-started.html' },
+      { text: 'GitHub', link: 'https://github.com/pugjs/pug' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Mout',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/mout.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://moutjs.com/' },
+      { text: 'GitHub', link: 'https://github.com/mout/mout' },
     ]
   }
 }

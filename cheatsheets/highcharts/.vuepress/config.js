@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Highcharts',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/highcharts.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://www.highcharts.com/' },
+      { text: 'GitHub', link: 'https://github.com/highcharts/highcharts' },
     ]
   }
 }

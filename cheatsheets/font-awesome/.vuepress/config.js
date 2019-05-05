@@ -4,8 +4,8 @@ module.exports = {
     logo: '/adonis.jpeg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://fontawesome.com/' },
+      { text: 'GitHub', link: 'https://github.com/FortAwesome/Font-Awesome' },
     ]
   }
 }

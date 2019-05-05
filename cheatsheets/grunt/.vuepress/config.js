@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Grunt',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/grunt.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://gruntjs.com/' },
+      { text: 'GitHub', link: 'https://github.com/gruntjs/grunt' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Seneca',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/seneca.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://senecajs.org/' },
+      { text: 'GitHub', link: 'https://github.com/senecajs/seneca' },
     ]
   }
 }

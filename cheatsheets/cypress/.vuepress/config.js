@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Cypress',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/cypress-icon.jpg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://www.cypress.io/' },
+      { text: 'GitHub', link: 'https://github.com/cypress-io/cypress' },
     ]
   }
 }

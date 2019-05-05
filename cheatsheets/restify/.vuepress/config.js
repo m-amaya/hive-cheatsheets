@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Restify',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/restify-icon.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://restify.com/' },
+      { text: 'GitHub', link: 'https://github.com/restify/node-restify' },
     ]
   }
 }

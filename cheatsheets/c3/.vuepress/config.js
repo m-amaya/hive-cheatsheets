@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'C3',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/c3.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://c3js.org/' },
+      { text: 'GitHub', link: 'https://github.com/c3js/c3' },
     ]
   }
 }

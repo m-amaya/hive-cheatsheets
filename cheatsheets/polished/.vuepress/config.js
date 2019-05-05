@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'polished',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/polished.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://polished.js.org/' },
+      { text: 'GitHub', link: 'https://github.com/styled-components/polished' },
     ]
   }
 }

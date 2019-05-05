@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Knex',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/knex.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://knexjs.org/' },
+      { text: 'GitHub', link: 'https://github.com/tgriesser/knex' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Ember',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/ember.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://emberjs.com/' },
+      { text: 'GitHub', link: 'https://github.com/emberjs/ember.js' },
     ]
   }
 }

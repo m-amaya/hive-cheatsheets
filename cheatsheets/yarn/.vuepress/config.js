@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Yarn',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/yarn-icon.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://yarnpkg.com/en/' },
+      { text: 'GitHub', link: 'https://github.com/yarnpkg/yarn' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'D3: Data-Driven Documents',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/d3.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://d3js.org/' },
+      { text: 'GitHub', link: 'https://github.com/d3/d3' },
     ]
   }
 }

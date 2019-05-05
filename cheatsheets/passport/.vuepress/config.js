@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Passport',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/passport.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://www.passportjs.org/' },
+      { text: 'GitHub', link: 'https://github.com/jaredhanson/passport' },
     ]
   }
 }

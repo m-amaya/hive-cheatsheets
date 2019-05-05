@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Keystone',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/keystone.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://keystonejs.com/' },
+      { text: 'GitHub', link: 'https://github.com/keystonejs/keystone' },
     ]
   }
 }

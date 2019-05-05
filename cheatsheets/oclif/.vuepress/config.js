@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'oclif',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/oclif.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://oclif.io/' },
+      { text: 'GitHub', link: 'https://github.com/oclif/oclif' },
     ]
   }
 }

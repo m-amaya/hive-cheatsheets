@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'TAP',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/tap.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://www.node-tap.org/' },
+      { text: 'GitHub', link: 'https://github.com/tapjs/node-tap' },
     ]
   }
 }

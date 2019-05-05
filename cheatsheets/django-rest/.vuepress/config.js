@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Django REST Framework',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/django-rest.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://www.django-rest-framework.org/' },
+      { text: 'GitHub', link: 'https://github.com/encode/django-rest-framework' },
     ]
   }
 }

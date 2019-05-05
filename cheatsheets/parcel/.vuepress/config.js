@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Parcel',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/parcel-icon.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://parceljs.org/' },
+      { text: 'GitHub', link: 'https://github.com/parcel-bundler/parcel' },
     ]
   }
 }

@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'MongoDB',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/mongodb.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://docs.mongodb.com/manual/' },
+      { text: 'GitHub', link: 'https://github.com/mongodb/mongo' },
     ]
   }
 }

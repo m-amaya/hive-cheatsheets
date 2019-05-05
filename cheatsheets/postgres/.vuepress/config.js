@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'PostgreSQL',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/postgresql.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://www.postgresql.org/' },
+      { text: 'GitHub', link: 'https://github.com/postgres/postgres' },
     ]
   }
 }

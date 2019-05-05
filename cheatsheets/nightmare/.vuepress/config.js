@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'Nightmare',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/nightmare.png',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'http://www.nightmarejs.org/' },
+      { text: 'GitHub', link: 'https://github.com/segmentio/nightmare' },
     ]
   }
 }

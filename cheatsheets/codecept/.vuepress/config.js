@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Adonis',
+  title: 'CodeceptJS',
   themeConfig: {
-    logo: '/adonis.jpeg',
+    logo: '/codecept.svg',
     nav: [
       { text: 'Guide', link: '/guide/' },
-      { text: 'Website', link: 'https://adonisjs.com/' },
-      { text: 'GitHub', link: 'https://github.com/adonisjs/adonis-framework' },
+      { text: 'Website', link: 'https://codecept.io/' },
+      { text: 'GitHub', link: 'https://github.com/Codeception/CodeceptJS' },
     ]
   }
 }

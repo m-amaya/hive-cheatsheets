@@ -3,3 +3,9 @@
 
 * **Github:** https://github.com/d3/d3
 * **Website:** https://d3js.org/
+
+## Install
+
+```
+$ yarn add d3-<module>
+```
